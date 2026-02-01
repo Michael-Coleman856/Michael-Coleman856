@@ -6,6 +6,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Coleman856/ticket-lifecycle))
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Michael-Coleman856/azure-network-protocols)
+  - [Remote Desktop connecting](https://github.com/Michael-Coleman856/remote-desktop)
 
 <h2>🤳Connect with me:</h2>
 
