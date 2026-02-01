@@ -5,8 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Coleman856/ticket-lifecycle))
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/
-Michael-Coleman856/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Michael-Coleman856/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
