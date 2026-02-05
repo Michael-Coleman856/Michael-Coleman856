@@ -17,8 +17,6 @@
 
 
 [<img align="left" alt="Jane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/03291e52-caa7-46e2-b8fd-a0669cc6d64b" />
-
 
 
 
