@@ -1,8 +1,7 @@
 <h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/michaelacolemanjr/">IT Professional</a>!</h1>
 
 <h2>👨‍💻Forms Design Portfolio:</h2>
-- <b>Fillable Form</b>
-  - [M](https://github.com/Michael-Coleman856/Fillable-Form)
+ - [Fillable Forms](https://github.com/Michael-Coleman856/Fillable-Forms)
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
