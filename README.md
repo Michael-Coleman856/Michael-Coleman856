@@ -21,9 +21,9 @@
   - [Preparing AD Infrastructure in Azure]()
   - [Deploying Active Directory]()
   - [Creating Users with Powershell]()
-  - [Group Policy and Managing Accounts]
+  - [Group Policy and Managing Accounts]()
 - <b>DNS</b>
-  - [Practicing with DNS]
+  - [Practicing with DNS]()
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permissions Labs]()
   - [File Permissions with Google Drive]()
