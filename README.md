@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>oAzure Compute and Networking</b>
+- <b>Azure Compute and Networking</b>
   - [How to use Remote Desktop](
   - [Performing Activities on the Network Part 1]
   - [Performing Activites on the Network Part 2]
