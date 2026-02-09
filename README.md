@@ -7,7 +7,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Compute and Networking</b>
-  - [How to use Remote Desktop](
+  - [How to use Remote Desktop](https://github.com/Michael-Coleman856/How-to-use-Remote-Desktop)
   - [Performing Activities on the Network Part 1]
   - [Performing Activites on the Network Part 2]
   - [Performing Activites on the Network Part 3]
