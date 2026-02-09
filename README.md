@@ -10,7 +10,7 @@
   - [How to use Remote Desktop](https://github.com/Michael-Coleman856/How-to-use-Remote-Desktop)
   - [Performing Activities on the Network Part 1](https://github.com/Michael-Coleman856/Performing-Activities-on-the-Network-Part-1)
   - [Performing Activites on the Network Part 2](https://github.com/Michael-Coleman856/Performing-Activites-on-the-Network-Part-2)
-  - [Performing Activites on the Network Part 3]
+  - [Performing Activites on the Network Part 3](https://github.com/Michael-Coleman856/Performing-Activites-on-the-Network-Part-3)
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)]()
 - <b>osTicket (Help Desk Ticketing System)</b>
