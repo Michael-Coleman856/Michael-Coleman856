@@ -25,7 +25,7 @@
 - <b>DNS</b>
   - [Practicing with DNS](https://github.com/Michael-Coleman856/Practicing-with-DNS)
 - <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions Labs]()
+  - [Network File Shares and Permissions Labs](https://github.com/Michael-Coleman856/Network-File-Shares-and-Permissions-Labs)
   - [File Permissions with Google Drive]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
