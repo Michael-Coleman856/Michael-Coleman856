@@ -23,7 +23,7 @@
   - [Creating Users with Powershell](https://github.com/Michael-Coleman856/Creating-Users-with-Powershell)
   - [Group Policy and Managing Accounts]()
 - <b>DNS</b>
-  - [Practicing with DNS]()
+  - [Practicing with DNS](https://github.com/Michael-Coleman856/Practicing-with-DNS)
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permissions Labs]()
   - [File Permissions with Google Drive]()
