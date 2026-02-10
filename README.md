@@ -27,7 +27,6 @@
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permissions Labs](https://github.com/Michael-Coleman856/Network-File-Shares-and-Permissions-Labs)
   - [File Permissions with Google Drive](https://github.com/Michael-Coleman856/File-Permissions-with-Google-Drive)
-  - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Michael-Coleman856/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Michael-Coleman856/azure-network-protocols)
