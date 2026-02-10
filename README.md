@@ -20,7 +20,7 @@
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/Michael-Coleman856/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/Michael-Coleman856/Deploying-Active-Directory)
-  - [Creating Users with Powershell]()
+  - [Creating Users with Powershell](https://github.com/Michael-Coleman856/Creating-Users-with-Powershell)
   - [Group Policy and Managing Accounts]()
 - <b>DNS</b>
   - [Practicing with DNS]()
