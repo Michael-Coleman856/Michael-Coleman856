@@ -18,7 +18,7 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/Michael-Coleman856/VPN-Setup-and-Usage-Proton-VPN-)
 - <b>Active Directory</b>
-  - [Preparing AD Infrastructure in Azure]()
+  - [Preparing AD Infrastructure in Azure](https://github.com/Michael-Coleman856/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory]()
   - [Creating Users with Powershell]()
   - [Group Policy and Managing Accounts]()
