@@ -14,3 +14,9 @@
  
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
+
+- <b>Microsoft Active Directory</b>
+
+- <b>Virtual Private Network</b>
+
+- <b>Tier-1 Troubleshooting: Common Fix Quick References</b>
