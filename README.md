@@ -11,6 +11,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Michael-Coleman856/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Michael-Coleman856/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Coleman856/ticket-lifecycle)
+ 
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machines in Azure Portal]
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/Michael-Coleman856/VPN-Setup-and-Usage-Proton-VPN-)
 - <b>Active Directory</b>
