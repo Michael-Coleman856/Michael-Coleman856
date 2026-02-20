@@ -18,7 +18,13 @@
   - [Azure DNS Fundamentals: Managing A-Records, CNAMEs, and DNS Cache](https://github.com/Michael-Coleman856/dns)
 
 - <b>Microsoft Active Directory</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/Michael-Coleman856/configure-ad)
+  - [Managing Active Directory Accounts and Group Policy]
+  - [File Shares: Mastering Permissions with Security Groups](https://github.com/Michael-Coleman856/permissions)
 
 - <b>Virtual Private Network</b>
+  - [VPN Setup and Usage within Microsoft Azure Virtual Machines](https://github.com/Michael-Coleman856/vpn-setup)
 
 - <b>Tier-1 Troubleshooting: Common Fix Quick References</b>
+  - [Printers: Offline, Jams, and Drivers](https://github.com/Michael-Coleman856/printers)
+  - [Wi-Fi: No Connection, Drops, and Speed](https://github.com/Michael-Coleman856/wifi)
