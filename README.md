@@ -7,11 +7,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure Compute and Networking</b>
-  - [How to use Remote Desktop](https://github.com/Michael-Coleman856/How-to-use-Remote-Desktop)
-  - [Performing Activities on the Network Part 1](https://github.com/Michael-Coleman856/Performing-Activities-on-the-Network-Part-1)
-  - [Performing Activites on the Network Part 2](https://github.com/Michael-Coleman856/Performing-Activites-on-the-Network-Part-2)
-  - [Performing Activites on the Network Part 3](https://github.com/Michael-Coleman856/Performing-Activites-on-the-Network-Part-3)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Michael-Coleman856/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Michael-Coleman856/osTicket-Post-Installation-Configuration)
