@@ -13,7 +13,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Coleman856/ticket-lifecycle)
  
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in Azure Portal]
+  - [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/Michael-Coleman856/VPN-Setup-and-Usage-Proton-VPN-)
 - <b>Active Directory</b>
