@@ -11,11 +11,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Michael-Coleman856/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Michael-Coleman856/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Coleman856/ticket-lifecycle)
-  - [Azure DNS Fundamentals: Managing A-Records, CNAMEs, and DNS Cache](https://github.com/Michael-Coleman856/dns)
  
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocol Traffic with Wireshark](https://github.com/Michael-Coleman856/azure-network-protocols)
+  - [Azure DNS Fundamentals: Managing A-Records, CNAMEs, and DNS Cache](https://github.com/Michael-Coleman856/dns)
 
 - <b>Microsoft Active Directory</b>
 
