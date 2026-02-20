@@ -19,7 +19,7 @@
 
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Michael-Coleman856/configure-ad)
-  - [Managing Active Directory Accounts and Group Policy]
+  - [Managing Active Directory Accounts and Group Policy](https://github.com/Michael-Coleman856/ad-accountsgp)
   - [File Shares: Mastering Permissions with Security Groups](https://github.com/Michael-Coleman856/permissions)
 
 - <b>Virtual Private Network</b>
